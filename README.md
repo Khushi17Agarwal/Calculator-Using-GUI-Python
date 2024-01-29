@@ -42,8 +42,11 @@ This row contains (.) decimal.
 In these rows are :
 
 -> The basic number buttons (0 to 9).
+
 -> The basic math symbols (operators) (+, -, *, /).
+
 -> The equal sign (=) and point (.).
+
 
 
 
