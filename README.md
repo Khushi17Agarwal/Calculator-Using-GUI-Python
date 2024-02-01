@@ -47,6 +47,12 @@ In these rows are :
 
 -> The equal sign (=) and point (.).
 
+If any syntax error is encountered in the entry box then it returns an error.
+
+![image](https://github.com/Khushi17Agarwal/Calculator-Using-GUI-Python/assets/131173187/e7181c97-0110-451f-b1df-36b9ad5d43c3)
+
+
+
 
 
 
